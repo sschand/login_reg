@@ -1,0 +1,59 @@
+/* Login/Registration page */
+
+span{
+	margin: 0px 3em;
+}
+.green{
+	color: green;
+}
+.red{
+	color: red;
+}
+.section{
+	border: .2em solid black;
+	margin-top: 3em;
+	padding: 1em;
+}
+.login_row{
+	margin-right: 8.5em;
+	float: right;
+}
+.register_row{
+	margin-right: 9.7em;
+	float: right;
+}
+#register_block{
+	padding: 0em 3em;
+}
+.login_reg p{
+	color: red;
+}
+h2#register{
+    width: 3.7em;
+    margin-top: -1.1em;
+    background: white;
+    padding: .1em;
+}
+h2#log{
+    width: 2.8em;
+    margin-top: -1.2em;
+    background: white;
+    padding: .1em;
+}
+
+
+ /* Welcome page */
+.section{
+	border: .2em solid black;
+	margin-top: 3em;
+	padding: 1em;
+}
+.container a{
+	float: right;
+}
+h4{
+    width: 7.3em;
+    margin-top: -1.5em;
+    background: white;
+    padding: .1em;
+}
